@@ -6,4 +6,4 @@ I was trying my strength witch C++, because I always loved games, and I wanted t
 This year, I started again, and I just simply fall in love with it. Right now, I spend my time at learning, and trying to type a better and more complicated code to expand my skills.
 Here I can show you what and how I code, and what projects I've made.
 
-Enjoy :tada
+Enjoy :)
