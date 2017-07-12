@@ -1,5 +1,3 @@
-#Hello_world
-
 Hi,
 
   My name is Filip, and I'm a beginner programmer.
